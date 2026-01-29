@@ -9,6 +9,7 @@ import Footer from '../components/home/Footer'
 const Home = () => {
   return (
     <div>
+      <meta name="google-site-verification" content="xy0sN6bpXQuKzgTOmgUkc_tnOVldC8v3wecrDYIEmZ8" />
       <Banner />
       <Hero />
       <Features />
